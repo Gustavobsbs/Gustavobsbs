@@ -1,12 +1,15 @@
-<h1 align="center">Hi 👋, I'm Gustavo</h1>
+<h1 align="center">Olá, eu sou Gustavo</h1>
 <h3 align="center">Analista DevOps</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gustavobsbs&label=Profile%20views&color=0e75b6&style=flat" alt="gustavobsbs" /> </p>
 
 - 🔭Trabalho na **CSDBR**
 
+- 💬 **Atualmente, estou estudando e aprofundando meus conhecimentos em várias tecnologias essenciais para o desenvolvimento e a gestão de sistemas modernos. Sou dedicado ao aprendizado de bancos de dados NoSQL como o Cassandra, ao uso de plataformas de streaming de dados como o Kafka, e às soluções de análise em larga escala com o StarRocks. Além disso, estou explorando os serviços de cloud da AWS para entender melhor a infraestrutura na nuvem, bem como as práticas de orquestração com o Kubernetes, para gerenciar contêineres de forma eficiente e escalável.**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/gustavo-barbosa-1a378224b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gustavo-barbosa-1a378224b/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
